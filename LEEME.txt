@@ -6,7 +6,8 @@ Para poder ver el proyecto se debe descargar para tener acceso a los archivos.
 en mi caso ocupo xampp para poder visualizar el proyecto y la base de datos, por lo que al descargar el proyecto las carpetas deben ser movidas a htdocs 
 que generalmente esta ubicado en el disco local C, la carpeta xampp, y luego htdocs. Estando ahi la carpeta descargada procederemos a cargar la base de datos 
 que se encuentra en la carpeta "base de datos sql". asumiendo que trabajan con xampp y que tanto apache y mysql estan encendidos iremos a phpmyadmin 
-en donde se ejecutará la sentencia sql ubicada en la carpeta antes mencionada llamada "votaciones.sql" y con todo lo que he mencionado el sistema deberia funcionar sin ningun problema. 
+en donde se debera crear una nueva base de datos con el nombre de "votaciones" luego con la base de datos ya creada se ejecutará la sentencia sql 
+ubicada en la carpeta antes mencionada llamada "votaciones.sql" y con todo lo que he mencionado el sistema deberia funcionar sin ningun problema. 
 
 Eso es todo muchas gracias por la oportunidad y les deseo una buena semana
 
